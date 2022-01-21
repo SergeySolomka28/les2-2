@@ -1,13 +1,11 @@
  #container>div {box-sizing: border-box;
     margin:30px;
     text-align: center;
-    padding-top: 40px;
- }
-.a{box-shadow: black 10px 10px 5px 5px;}
-.b{box-shadow: black 10px 10px 5px 5px;}
-.c{box-shadow: black 10px 10px 5px 5px;}
-.d{box-shadow: rgba(0, 0, 0, 0.67) 10px 10px 5px 5px;}
-.e{box-shadow: black 10px 10px 5px 5px;}
-.f{box-shadow: rgba(0,0,0,0.67) 10px 10px 5px 5px}
-.e {border-radius: 10px}
- .f{border-radius: 10px}
+    padding-top: 35px;
+    border-radius: 50px;
+
+    }
+    .a {color:#111ea8; border: 7px solid #111ea8;}
+    .b {color:#a05f7a;border: 7px solid #a05f7a;}
+    .c {color:#6fa05f; border: 7px solid #6fa05f;}
+    .d {color: green; border: 7px solid green }
