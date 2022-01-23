@@ -3,9 +3,12 @@
     text-align: center;
     padding-top: 35px;
     border-radius: 50px;
-
     }
-    .a {color:#111ea8; border: 7px solid #111ea8;}
-    .b {color:#a05f7a;border: 7px solid #a05f7a;}
-    .c {color:#6fa05f; border: 7px solid #6fa05f;}
-    .d {color: green; border: 7px solid green }
+    .a {color:#111ea8;
+        border: 7px solid #111ea8;}
+    .b {color:#a05f7a;
+        border: 7px solid #a05f7a;}
+    .c {color:#6fa05f;
+        border: 7px solid #6fa05f;}
+    .d {color: green;
+        border: 7px solid green }
